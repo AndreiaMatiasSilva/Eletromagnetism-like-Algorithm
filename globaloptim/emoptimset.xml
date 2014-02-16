@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- Copyright 2011 The MathWorks, Inc. -->
+<rsccat version="1.0" locale="en_US" product="globaloptim">
+  <message>
+    <entry key="invalidArgPair">Arguments must occur in name-value pairs.</entry>
+    <entry key="invalidArgFormat">Expected argument {0,number,integer} to be a string parameter name.</entry>
+    <entry key="invalidParamName">Unrecognized parameter name ''{0}''.</entry>
+    <entry key="invalidParamVal">Expected value for parameter ''{0}''.</entry>
+  <!--Resource entries for toolbox/globaloptim-->
+  <!--Resource entries for toolbox/globaloptim-->
+    <entry key="invalidArgument">Expected argument {0,number,integer} to be a string parameter name or an options structure\ncreated with SAOPTIMSET.</entry>
+    <entry key="functionNotFound">No default options available: the function ''{0}'' does not exist on the path.</entry>
+    <entry key="noDefaultOptions">No default options available for the function ''{0}''.</entry>
+    <entry key="AmbiguousParamName">Ambiguous parameter name ''{0}'' {1}</entry>
+  </message>
+</rsccat>
+

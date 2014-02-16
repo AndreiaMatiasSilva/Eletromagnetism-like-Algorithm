@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- Copyright 2011 The MathWorks, Inc. -->
+<rsccat version="1.0" locale="en_US" product="globaloptim">
+  <message>
+    <entry key="needFunctionHandle">Arguments must occur in name-value pairs.</entry>
+    <entry key="fourthInputNotStruct">Expected argument {0,number,integer} to be a string parameter name.</entry>
+    <entry key="dataType">Expected argument {0,number,integer} to be a string parameter name.</entry>
+    <entry key="boundsWithCustom">Expected argument {0,number,integer} to be a string parameter name.</entry>
+	</message>
+</rsccat>
+

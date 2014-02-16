@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Copyright 2011 The MathWorks, Inc. -->
+<rsccat version="1.0" locale="en_US" product="globaloptim">
+  <message>
+    <entry key="numberOfInputs">Arguments must occur in name-value pairs.</entry>
+    <entry key="invalidStructInput">Expected argument {0,number,integer} to be a string parameter name.</entry>
+  </message>
+</rsccat>
+
